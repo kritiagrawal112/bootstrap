@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 12, 2017, 10:36:04 AM
+    Author     : kritiagarwal
+*/
+body
+{
+    padding-top: 50px;
+}
+.banner-image
+{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("img/clock-1461689_1280.jpg") no-repeat center center;
+   background-size: cover;
+    
+}
+#banner-content
+{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+    
+}
+.test
+{
+   padding: 10px;
+    min-height: 250px;
+    max-height:250px;
+}
+.v1
+{
+    
+    background-repeat: no-repeat;
+    background-position: center center;
+    width: 100%;
+    
+    min-height: 650px;
+    
+}
+.state
+{
+    margin-top: 20px;
+    
+    
+}
+#footer
+{   width: 100%;
+    color:#9d9d9d;
+    bottom: 0;
+    padding: 10px 0px;
+    text-align: center;
+    background-color: black;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #0f0f0f;
+  color: #9d9d9d;
+  text-align: center;
+}
+.t2
+{
+    margin-top: 50px;
+}
